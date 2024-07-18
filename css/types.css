@@ -1,0 +1,13 @@
+body{
+    background-image:url("../image/abc\ 9.jpeg");
+}
+#a{
+    color: black;
+    font-size: 35px;
+    background-color: whitesmoke;
+}
+#b{
+    color: black;
+    font-size: 35px;
+    background-color: aquamarine;
+}

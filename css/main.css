@@ -1,0 +1,53 @@
+body{
+    background-image:url("../image/abc\ 3.jpeg") ;
+    margin-bottom: 100%;
+
+    
+}
+nav{
+    background-color: whitesmoke;
+    padding: 20px;
+   
+}
+button{
+    background-color: rgb(169, 25, 145);
+    border: 2px solid rebeccapurple;
+    padding: 10px;
+    border-radius: 10px;
+    color: whitesmoke;
+    
+}
+h1{
+    color: white;
+    margin-top: 700%;
+}
+#c{
+    color: white;
+    font-size: 35px;
+    border: 2px double red;
+    background-color: black;
+
+}
+#d{
+    color: black;
+    font-size: 35px;
+    background-color: whitesmoke;
+
+
+}
+#f{
+    color: white;
+    font-size: 25px;
+    background-color: black;
+}
+article {
+    float: left;
+    padding: 20px;
+    width: 70%;
+    background-color: #f1f1f1;
+    height: 200px; /* only for demonstration, should be removed */
+}
+#g{
+    font-size: large;
+}
+
